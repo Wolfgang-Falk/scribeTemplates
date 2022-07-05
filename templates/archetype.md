@@ -59,10 +59,10 @@ You gain the *spell name* focus spell, and you increase the number of Focus Poin
 specialfeat {
 item (
 <span style="font-size: 18px;font-weight:bold;text-transform:uppercase;font-family:'ff-good-web-pro-condensed'!important">Feat Name</span> 
-## Feat 4 ((+Enchanted by Fey))
+## Feat 4 ((+Feat Name))
 -
-;archetype, enchantment
-**Prerequisities** greenwood knight dedication 
+;archetype, skill
+**Prerequisities** archetype dedication 
 -
 Feats Description
 )
