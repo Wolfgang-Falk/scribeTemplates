@@ -55,7 +55,7 @@ item (
 ## Feat 4 ((+Enchanted by Fey))
 -
 ;archetype, enchantment
-**Prerequisities** greenwood knight dedication 
+**Prerequisities** archetype dedication 
 -
 Feats Description
 )
