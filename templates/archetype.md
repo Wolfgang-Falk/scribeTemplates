@@ -5,20 +5,26 @@ Pathfinder 2E — Archetype Template
 title ( 
     Archetype Name
 )
+<!-- The header text; The "(())" is for your TOC -->
 head (
-# Archetype Name ((Archetype Name))
+# Archetype Name ((Archetype Name))   
 An epic description for the archetype
 -
 )
 
 An archetype description worthy of the roleplay!
 
+<!-- Column break -->
 |
+
 
 /
 
+<!-- Standard HTML elements also work --->
 ##### <span style="display:inline;font-family:'linotype-sabon'!important;font-size:12px;text-transform:capitalize;">Additional Feats ((+Additional Feats)) <span style="font-weight:normal">**Xth:** additional feat name (*Core Rulebook*, p. 00)</span></span>
 
+<!-- You can have feats with normal headers or use the specialfeat element with item -->
+<!-- Tags require the ";" at the beginning of the list with commas as delimiters -->
 specialfeat {
 item (
 # Archetype Dedication ((+Dedication))
@@ -47,6 +53,7 @@ You gain the *spell name* focus spell, and you increase the number of Focus Poin
 
 |
 
+<!-- this div helps with adjusting feats to not have a gap from the description seperation -->
 <div style="margin-top: -10px">
 
 specialfeat {
@@ -55,7 +62,7 @@ item (
 ## Feat 4 ((+Enchanted by Fey))
 -
 ;archetype, enchantment
-**Prerequisities** archetype dedication 
+**Prerequisities** greenwood knight dedication 
 -
 Feats Description
 )
@@ -63,7 +70,7 @@ Feats Description
 
 </div>
 
-
+<!-- Next Page -->
 =
 
 
