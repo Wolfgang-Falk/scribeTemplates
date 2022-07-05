@@ -1,3 +1,4 @@
+```
 watermark (
 Pathfinder 2E — Archetype Template
 )
@@ -87,3 +88,4 @@ You cast the thing
 )
 
 =
+```
