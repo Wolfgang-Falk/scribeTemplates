@@ -229,6 +229,7 @@ left (
 | Feat Name | 18 |
 | Feat Name | 20 |
 )
+<!-- Note: Formatting will be odd unless you add a number of feats in the sidebar equal to or greater than the height of the content on the right -->
 
 # [Class Name] Feats ((+ [Class Name] Feats))
 At every level that you gain a [class name] feat, you can select one of the following. You must satisfy any prerequisites before taking the feat.
