@@ -144,7 +144,7 @@ Describe what makes someone an adventurer and different from their kin. The typi
 <!-- Tags require the ";" at the beginning of the list with commas as delimiters -->
 specialfeat {
 item (<div style="height:2px;"></div>
-# Feat Name  ((+Feat Name))
+# Feat Name :a: to :aaa: ((+Feat Name))
 ## Feat X
 -
 ;[ancestry name]
