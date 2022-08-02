@@ -302,7 +302,7 @@ item(
 
 **Range** Touch; **Targets** One creature
 
-**Duration** Substain up to 1 minute
+**Duration** Sustain up to 1 minute
 -
 You cast the thing
 -
