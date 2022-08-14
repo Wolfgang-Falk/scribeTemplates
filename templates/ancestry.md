@@ -102,7 +102,7 @@ item (
 -
 <!-- You do not need the barracks "[]"; Remove them with your ancestry name -->
 ;[ancestry name]
-**Prerequisities** [heritage name] [ancestry name]
+**Prerequisites** [heritage name] [ancestry name]
 -
 You gain a cool ability related to your heritage.
 )
@@ -148,7 +148,7 @@ item (<div style="height:2px;"></div>
 ## Feat X
 -
 ;[ancestry name]
-**Prerequisities** [ancestry feat name]
+**Prerequisites** [ancestry feat name]
 -
 Your ancestry feat epic description.
 )
