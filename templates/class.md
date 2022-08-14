@@ -255,7 +255,7 @@ item (
 ## Feat 2 
 -
 ;class name
-**Prerequisities** subclass
+**Prerequisites** subclass
 -
 Feats Description
 )
@@ -279,7 +279,7 @@ item (
 ## Feat 2
 -
 ;archetype, dedication
-**Prerequisities** What you need
+**Prerequisites** What you need
 -
 Dedication description
 
