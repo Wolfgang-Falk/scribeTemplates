@@ -31,7 +31,7 @@ item (
 ## Feat 2
 -
 ;uncommon,rare,archetype,dedication
-**Prerequisities** Necessities
+**Prerequisites** Necessities
 -
 You gain the thing.
 
@@ -45,7 +45,7 @@ item (
 ## Feat 4
 -
 ;archetype, focus spell
-**Prerequisities** archetype dedication
+**Prerequisites** archetype dedication
 -
 You gain the *spell name* focus spell, and you increase the number of Focus Points in your focus pool by 1. 
 )
@@ -62,7 +62,7 @@ item (
 ## Feat 4 ((+Feat Name))
 -
 ;archetype, skill
-**Prerequisities** archetype dedication 
+**Prerequisites** archetype dedication 
 -
 Feats Description
 )
