@@ -137,6 +137,8 @@ right (
 # [Ancestry] Adventurers
 Describe what makes someone an adventurer and different from their kin. The typical backgrounds and classes that synergize with the ancestry and its themes.
 
+<!--- Workaround: Extends sidebar to page length. By default, the left content will extend to page width once the right sidebar content ends. Change height value if too long by replacing 'calc(800px - 10vw)' with a height value, e.g. 'height:300px' for a 300 pixel (px) value --->
+<div style="height:calc(800px - 10vw)"></div>
 )
 
 <!-- Left Section -->
